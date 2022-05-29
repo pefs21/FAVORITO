@@ -11,3 +11,5 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 #EXTINF:0 type="favorites" channelId="-1" logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png", Rede TV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://www.saomanuel.sp.gov.br/fotos/cf7912fd66b8927d825224df8bc21df6.jpg", CANÇÃO NOVA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
