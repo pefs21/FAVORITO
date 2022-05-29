@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:0 type="favorites" channelId="-1" group="Brasil: variedades em português" logo="https://i.imgur.com/srURmsi.png", SBT | interior de SP
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i.imgur.com/srURmsi.png", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Brasil: educativos e documentários" logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg", TV Brasil | TVE (RS)
+#EXTINF:0 type="favorites" channelId="-1" logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg", TV Brasil
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Brasil: cristianismo em português" logo="https://i.imgur.com/H5zWaCa.png", TV Pai Eterno\\, Goiás
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i.imgur.com/H5zWaCa.png", TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/master.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Brasil: variedades em português" logo="https://i.imgur.com/HnL2uBA.png", Band | Brasil
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i.imgur.com/HnL2uBA.png", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="Brasil: cristianismo em português",TV Aparecida | Brasil
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="Brasil: cristianismo em português",TV Aparecida | PUC TV (GO)
-https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/master.m3u8
-#EXTINF:-1 tvg-id="560" tvg-name="Band" tvg-logo="https://lh3.googleusercontent.com/-6VphUlD1L4Y/X0EdNxO1YFI/AAAAAAAA42I/eJl7n6TrfWEZn2j8HSOqg1lOBrieAjlAQCK8BGAsYHg/s0/2020-08-22.png", Band | BR
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png", Rede TV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
